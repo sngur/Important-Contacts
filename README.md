@@ -1,2 +1,5 @@
-# Important-Contacts
-An online list of important contacts
+# Important Contacts
+ A List of Important contact information which you can call from this app using your phone
+
+This is an open-source project for providing a few important contact information. 
+
